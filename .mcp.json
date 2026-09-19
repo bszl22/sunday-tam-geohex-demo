@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "places-server": {
+      "command": ".venv/bin/python3",
+      "args": ["-m", "mcp_server.server"]
+    }
+  }
+}
